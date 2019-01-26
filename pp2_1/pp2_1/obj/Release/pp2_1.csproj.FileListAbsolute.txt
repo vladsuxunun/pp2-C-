@@ -1,0 +1,7 @@
+C:\Users\vlad\source\repos\pp2_1\pp2_1\bin\Release\pp2_1.exe.config
+C:\Users\vlad\source\repos\pp2_1\pp2_1\bin\Release\pp2_1.exe
+C:\Users\vlad\source\repos\pp2_1\pp2_1\bin\Release\pp2_1.pdb
+C:\Users\vlad\source\repos\pp2_1\pp2_1\obj\Release\pp2_1.csprojAssemblyReference.cache
+C:\Users\vlad\source\repos\pp2_1\pp2_1\obj\Release\pp2_1.csproj.CoreCompileInputs.cache
+C:\Users\vlad\source\repos\pp2_1\pp2_1\obj\Release\pp2_1.exe
+C:\Users\vlad\source\repos\pp2_1\pp2_1\obj\Release\pp2_1.pdb
