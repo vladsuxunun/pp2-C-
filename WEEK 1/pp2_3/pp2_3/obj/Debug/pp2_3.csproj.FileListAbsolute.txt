@@ -1,2 +1,0 @@
-C:\Users\vlad\source\repos\pp2_3\pp2_3\obj\Debug\pp2_3.csprojAssemblyReference.cache
-C:\Users\vlad\source\repos\pp2_3\pp2_3\obj\Debug\pp2_3.csproj.CoreCompileInputs.cache

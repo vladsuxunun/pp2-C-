@@ -1,6 +1,0 @@
-C:\Users\vlad\source\repos\pp2_2\pp2_2\bin\Debug\pp2_2.exe.config
-C:\Users\vlad\source\repos\pp2_2\pp2_2\bin\Debug\pp2_2.exe
-C:\Users\vlad\source\repos\pp2_2\pp2_2\bin\Debug\pp2_2.pdb
-C:\Users\vlad\source\repos\pp2_2\pp2_2\obj\Debug\pp2_2.csproj.CoreCompileInputs.cache
-C:\Users\vlad\source\repos\pp2_2\pp2_2\obj\Debug\pp2_2.exe
-C:\Users\vlad\source\repos\pp2_2\pp2_2\obj\Debug\pp2_2.pdb
